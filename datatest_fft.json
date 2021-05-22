@@ -1,0 +1,22 @@
+  {
+  "sensor": {
+  "name": "Nylon7",
+  "m_sensor": null,
+  "e_sensor": null,
+  "r_sensor": null,
+  "temperature": 27,
+  "rh": 63
+  },
+  "data": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "_id": "607a49f5570e392a608e5337",
+  "testee": "Cong-02121998",
+  "height": 162,
+  "weight": 50,
+  "r_body": 558,
+  "__v": 0
+  }
